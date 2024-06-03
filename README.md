@@ -17,6 +17,6 @@ npm run dev
   3) https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/ProjectInformation/image.png
 # Webpage UI
 
- <img src="https://github.com/ShravaniMitkar/OTT-Final/blob/master/ProjectInformation/img1.png?raw=true" alt="Girl in a jacket" width="500" height="600"> 
- <img src="https://github.com/ShravaniMitkar/OTT-Final/blob/master/ProjectInformation/img2.png?raw=true" alt="Girl in a jacket" width="500" height="600"> 
- <img src="https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/ProjectInformation/image.png" alt="Girl in a jacket" width="500" height="600"> 
+ <img src="https://github.com/ShravaniMitkar/OTT-Final/blob/master/ProjectInformation/img1.png?raw=true" > 
+ <img src="https://github.com/ShravaniMitkar/OTT-Final/blob/master/ProjectInformation/img2.png?raw=true" "> 
+ <img src="https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/ProjectInformation/image.png" > 
