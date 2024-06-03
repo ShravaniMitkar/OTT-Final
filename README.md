@@ -17,7 +17,7 @@ npm run dev
   3) https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/ProjectInformation/image.png
 # Webpage UI
 
-<img hre="https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/Project Information/img_1.png"/>
+<img hre="https://raw.githubusercontent.com/ShravaniMitkar/OTT-Final/master/ProjectInformation/image.png"/>
 <img hre="https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/Project Information/img_2.png"/>
 
 <img hre="https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/Project Information/image"/>
