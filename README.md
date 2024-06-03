@@ -1,6 +1,8 @@
 # OTT Platfrom Fround end design
-## Project Setup
+## Demo Video
+<a href="https://drive.google.com/file/d/12zH76MqPIkeSQHchJMV_efW5FXh-DARQ/view?usp=sharing">Demo Video</a></br>
 
+## Project Setup
 ```sh
 npm install
 ```
