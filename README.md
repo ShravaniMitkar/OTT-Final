@@ -23,3 +23,14 @@ npm run dev
  <img src="https://github.com/ShravaniMitkar/OTT-Final/blob/master/ProjectInformation/img1.png?raw=true" > 
  <img src="https://github.com/ShravaniMitkar/OTT-Final/blob/master/ProjectInformation/img2.png?raw=true" "> 
  <img src="https://raw.githubusercontent.com/ShravaniMitkar/OTT-Final/master/ProjectInformation/image.png" > 
+
+
+# Advantages/Disadvantages
+# Advantages
+1) Fast Loading time
+2) Easy to optimize code
+3) Easy for salable
+# Disadvantages
+1) Not-Responsive
+2) Small minor animation bug
+( can be easily fixed..but need more time)
