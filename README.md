@@ -1,15 +1,4 @@
-# vue-project
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
+# OTT Platfrom Fround end design
 ## Project Setup
 
 ```sh
@@ -22,8 +11,13 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+## images links 
+  1) https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/ProjectInformation/img1.png
+  2) https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/ProjectInformation/img2.png
+  3) https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/ProjectInformation/image.png
+# Webpage UI
 
-```sh
-npm run build
-```
+<img hre="https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/Project Information/img_1.png"/>
+<img hre="https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/Project Information/img_2.png"/>
+
+<img hre="https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/Project Information/image"/>
