@@ -32,5 +32,5 @@ npm run dev
 3) Easy for salable
 # Disadvantages
 1) Not-Responsive
-2) Small minor animation bug
+2) Small minor animation bug </br>
 ( can be easily fixed..but need more time)
