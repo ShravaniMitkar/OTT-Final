@@ -12,12 +12,11 @@ npm run dev
 ```
 
 ## images links 
-  1) https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/ProjectInformation/img1.png
-  2) https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/ProjectInformation/img2.png
+  1) https://github.com/ShravaniMitkar/OTT-Final/blob/master/ProjectInformation/img1.png?raw=true
+  2) https://github.com/ShravaniMitkar/OTT-Final/blob/master/ProjectInformation/img2.png?raw=true
   3) https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/ProjectInformation/image.png
 # Webpage UI
 
-<img hre="https://github.com/ShravaniMitkar/OTT-Final/blob/master/ProjectInformation/img1.png?raw=true"/>
-<img hre="https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/Project Information/img_2.png"/>
-
-<img hre="https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/Project Information/image"/>
+ <img src="https://github.com/ShravaniMitkar/OTT-Final/blob/master/ProjectInformation/img1.png?raw=true" alt="Girl in a jacket" width="500" height="600"> 
+ <img src="https://github.com/ShravaniMitkar/OTT-Final/blob/master/ProjectInformation/img2.png?raw=true" alt="Girl in a jacket" width="500" height="600"> 
+ <img src="https://raw.githubusercontent.com/ShravaniMitkar/Vue-OTT-Platform/master/ProjectInformation/image.png" alt="Girl in a jacket" width="500" height="600"> 
