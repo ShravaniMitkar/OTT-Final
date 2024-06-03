@@ -10,7 +10,8 @@ npm install
 ```sh
 npm run dev
 ```
-
+## References Links
+<a href="https://www.figma.com/board/OhxF3vCdH92JoRRcQUlrHX/Untitled?node-id=0-1&t=1wnrcouIDaNm7wM0-1">Website Blueprint</a>
 ## images links 
   1) https://github.com/ShravaniMitkar/OTT-Final/blob/master/ProjectInformation/img1.png?raw=true
   2) https://github.com/ShravaniMitkar/OTT-Final/blob/master/ProjectInformation/img2.png?raw=true
